@@ -1,0 +1,1 @@
+Download the snli corpus from https://nlp.stanford.edu/projects/snli/ and unzip it here.
